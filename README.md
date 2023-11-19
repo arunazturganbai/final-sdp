@@ -1,4 +1,3 @@
-# final-sdp
 # Restaurant Application 
 
 ## Project Overview:
