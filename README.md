@@ -1,4 +1,6 @@
-# Restaurant Application 
+## Name of your final project: Restaurant Application
+#### Group: SE-2215
+#### Team members: Tokenova Zhanerke, Salim Aizere, Turganbay Arunaz
 
 ## Project Overview:
 This project is a simple restaurant application implemented in Python using the tkinter library. The application employs various design patterns, such as the strategy pattern for menu handling, singleton pattern for waiter service, decorator pattern for button decorations, adapter pattern for notifications, observer pattern for food readiness notifications, and factory pattern for button creation.
