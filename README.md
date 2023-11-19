@@ -1,4 +1,4 @@
-## Name of your final project: Restaurant Application
+# Restaurant Application
 #### Group: SE-2215
 #### Team members: Tokenova Zhanerke, Salim Aizere, Turganbay Arunaz
 
