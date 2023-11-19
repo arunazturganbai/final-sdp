@@ -51,8 +51,7 @@ The purpose of this project is to demonstrate the implementation of various desi
 - **Order Food Button:** Places a food order, demonstrating decorator, adapter, and observer patterns.
 
 ## UML Diagram:
-
-
+![UML Diagram](https://github.com/arunazturganbai/final-sdp/blob/main/uml%20diagram.png)
 
 ## Conclusion:
 
